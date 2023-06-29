@@ -9,7 +9,7 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 - etapa 2 - 15%
 - etapa 3 - 98%
 - etapa 4 - 99,99%
-  Use o readme para documentar o andamento do seu projeto.
+-  Use o readme para documentar o andamento do seu projeto.
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
 - colocar css global
