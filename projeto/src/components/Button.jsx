@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./Button.css";
+import "./Global.css";
 
 const Button = ({ children, onClick }) => {
 	return (
